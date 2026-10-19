@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rcfe624.dokuwell.com/sitemap.xml
